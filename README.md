@@ -1,34 +1,39 @@
-# Testes automatizados com Cypress - Intermediário
+# Testes Automatizados com Cypress - Intermediário
 
-👋 Seja bem-vinda(o)!
+Projeto desenvolvido durante meus estudos do curso **Cypress Intermediário**, da escola [Talking About Testing](https://udemy.com/user/walmyr), com o objetivo de aprofundar conhecimentos em automação de testes utilizando Cypress.
 
-É muito bom tê-la(o) aqui. Tenho certeza que você vai adorar este curso. ❤️
+## Sobre o projeto
 
-## O que você vai aprender
+Este repositório reúne os exercícios e implementações realizados ao longo do curso, explorando diferentes recursos e abordagens para a criação de testes automatizados.
 
-Durante o curso de testes automatizados com Cypress (intermediário) você vai aprender:
+Durante o desenvolvimento, foram praticados conceitos relacionados à automação de testes de interface (GUI) e testes de API, além de técnicas para otimizar, organizar e estruturar os testes.
 
-- Como configurar o ambiente local de desenvolvimento
-- Como instalar e configurar o Cypress
-- Como criar testes automatizados de interface gráfica de usuário
-- Como criar testes automatizados de API (com _feedback_ visual no navegador)
-- Como testar APIs que necessitam um _token_ de acesso
-- Como criar testes otimizados e direto-ao-ponto
-- Como salvar a sessão do usuário no navegador para posterior restauração
-- Como validar se a sessão do usuário ainda é válida e como lidar com isso quando a mesma é invalidada
-- Como fazer a limpeza e criação da massa de dados antes do teste começar
-- Como proteger dados sensíveis, tais como senhas e _tokens_ de acesso
-- Como organizar os testes e comandos customizados em diferentes "camadas" (_API, CLI, GUI_)
-- Como estruturar os testes pensando em pré-condições, ações e resultados esperados
-- Como gerar dados aleatórios para uso nos testes automatizados
-- Como habilitar funcionalidades experimentais do Cypress
-- Como executar comandos à nível de sistema operacional
-- E como testar a leitura de arquivos
+## Conceitos e funcionalidades explorados
 
-## Vamos começar?
+- Configuração do ambiente de desenvolvimento e do Cypress;
+- Criação de testes automatizados de interface gráfica (GUI);
+- Criação e execução de testes de API;
+- Autenticação em APIs utilizando tokens de acesso;
+- Gerenciamento e restauração de sessões do usuário;
+- Validação de sessões e tratamento de sessões expiradas;
+- Preparação e gerenciamento de massa de dados para os testes;
+- Proteção de informações sensíveis, como senhas e tokens;
+- Organização de testes e comandos customizados em diferentes camadas (API, CLI e GUI);
+- Estruturação de testes com pré-condições, ações e resultados esperados;
+- Geração de dados aleatórios;
+- Utilização de funcionalidades experimentais do Cypress;
+- Execução de comandos no sistema operacional;
+- Testes envolvendo leitura de arquivos.
 
-Vá para a seção [estrutura do curso](./lessons/_course-structure_.md).
+## Tecnologias utilizadas
 
-___
+- [Cypress](https://www.cypress.io/)
+- JavaScript
+- Node.js
 
-Este é mais um curso da [**Escola Talking About Testing**](https://udemy.com/user/walmyr).
+## Apoie este projeto
+
+Se você gostou do projeto, deixe uma ⭐ no repositório.
+
+---
+Este projeto foi desenvolvido por [Arianne Silva](https://github.com/), como parte dos estudos realizados no curso **Testes Automatizados com Cypress - Intermediário**, produzido pela **Talking About Testing**.
